@@ -25,7 +25,7 @@ Since 2021 in the software testing area, bachelor's degree in Control and Automa
  - Agile methodologies (Scrum)
 
 ## Languages
-Portuguese - Native
-English - Advanced 
-French - Beginner
+- Portuguese - Native
+- English - Advanced 
+- French - Beginner
 
