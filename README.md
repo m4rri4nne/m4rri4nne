@@ -1,31 +1,31 @@
-# Hello! I'm Alicia
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m4rri4nne)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicia-gonçalves-paula/)
+[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/m4rri4nne)
 
-Since 2021 in the software testing area, bachelor's degree in Control and Automation Engineering, with a specialization in Software Engineering, and experience with manual and automated testing of web, API, and microservices. He currently works as a QA Engineer. My main activities are planning and execution of manual tests, development of automated tests in the context of Continuous Testing, and active participation in the development process improvements in the Squads in which I work.
+---
+### Olar 🇧🇷
 
-## Domain and Experience
- - Domain in agile testing and test automation (continuous testing)
- - Experience in specifying agile requirements with BDD
- - Business experience in E-commerce and Legal
- - Mastery of micro-services/back-end testing
- - Experience in web and mobile testing
+Oi oi, eu sou a Alicia ou **@m4rri4nne** nas redes. Sou formada em Engenharia de Controle e Automação e possuo especialização em Engenharia de software e venho atuando no setor de TI desde 2020. Já atuei como DEV no primeiro ano e atualmente estou focada na parte de qualidade de software e automação de testes. 
 
- ## Test Automation
- - Stacks: Python, Java, JavaScript, and C#
- - Git: Azure and Bitbucket
- - Frameworks: Selenium, Cypress, Rest Assured, NUnit, Cucumber
- - Database and Caches: MongoDB, ElasticSearch, PostgreSQL
- - DevOps: Azure and GoCD
+Nas horas vagas desenvolvo algumas coisinhas diferentes e escrevo artigos no [dev.to](https://dev.to/m4rri4nne). 
 
- ### Non-functional tests
- - Load Tests with JMeter and K6
 
-## Management
- - Test Management: JIRA
- - Elaboration of documentation and metrics related to Quality(PowerBI and Data Studio)
- - Agile methodologies (Scrum)
+### Hello! 👋 🇺🇸
 
-## Languages
-- Portuguese - Native
-- English - Advanced 
-- French - Beginner
+Hi hi, I'm Alicia or **@m4rri4nne** online. I have a degree in Control and Automation Engineering and a specialization in Software Engineering and have been working in the IT sector since 2020. I worked as a DEV in the first year and am currently focused on software quality and test automation.
 
+In my spare time I develop a few different things and write articles on [dev.to](https://dev.to/m4rri4nne).
+
+--- 
+<a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m4rri4nne&theme=dracula">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m4rri4nne&theme=dracula" width="450" height="195">
+</a>
+
+---
+### Languages
+
+Portuguese - Native
+
+English - Advanced 
+
+French - Beginner
