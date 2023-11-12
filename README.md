@@ -18,7 +18,7 @@ In my spare time I develop a few different things and write articles on [dev.to]
 
 --- 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rri4nne&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rri4nne&theme=dracula" width="450" height="195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rri4nne&theme=dracula">
 </a>
 
 ---
