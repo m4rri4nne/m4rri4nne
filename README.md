@@ -17,8 +17,8 @@ Hi hi, I'm Alicia or **@m4rri4nne** online. I have a degree in Control and Autom
 In my spare time I develop a few different things and write articles on [dev.to](https://dev.to/m4rri4nne).
 
 --- 
-<a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m4rri4nne&theme=dracula">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m4rri4nne&theme=dracula" width="450" height="195">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rri4nne&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rri4nne&theme=dracula" width="450" height="195">
 </a>
 
 ---
