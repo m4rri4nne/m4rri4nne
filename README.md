@@ -16,6 +16,13 @@ Hi hi, I'm Alicia or **@m4rri4nne** online. I have a degree in Control and Autom
 
 In my spare time I develop a few different things and write articles on [dev.to](https://dev.to/m4rri4nne).
 
+---
+
+Estudando/Studying: 
+
+![](https://img.shields.io/badge/flutter-338AFF?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/docker-338AFF?style=for-the-badge&logo=docker&logoColor=white)
+
 --- 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rri4nne&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rri4nne&theme=dracula">
