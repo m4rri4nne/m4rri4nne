@@ -22,6 +22,8 @@ Estudando/Studying:
 
 ![](https://img.shields.io/badge/flutter-338AFF?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/docker-338AFF?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/typescript-338AFF?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/react-338AFF?style=for-the-badge&logo=react&logoColor=white)
 
 --- 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rri4nne&theme=dracula">
