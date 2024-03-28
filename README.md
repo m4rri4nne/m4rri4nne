@@ -20,7 +20,6 @@ In my spare time I develop a few different things and write articles on [dev.to]
 
 Estudando/Studying: 
 
-![](https://img.shields.io/badge/flutter-338AFF?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/docker-338AFF?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/react-338AFF?style=for-the-badge&logo=react&logoColor=white)
