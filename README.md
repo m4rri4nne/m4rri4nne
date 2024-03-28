@@ -24,6 +24,7 @@ Estudando/Studying:
 ![](https://img.shields.io/badge/docker-338AFF?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/react-338AFF?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/php-800080?style=for-the-badge&logo=php&logoColor=white)
 
 --- 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rri4nne&theme=dracula">
