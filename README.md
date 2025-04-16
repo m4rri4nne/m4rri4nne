@@ -1,4 +1,5 @@
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m4rri4nne)
+[![](https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/m4rri4nne)
+[![](https://img.shields.io/badge/BlueSky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/m4rri4nne.bsky.social)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicia-gonçalves-paula/)
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/m4rri4nne)
 
