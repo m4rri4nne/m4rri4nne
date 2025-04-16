@@ -12,18 +12,16 @@ Nas horas vagas desenvolvo algumas coisinhas diferentes e escrevo artigos no [de
 
 ### Hello! 👋 🇺🇸
 
-Hi hi, I'm Alicia or **@m4rri4nne** online. I have a degree in Control and Automation Engineering and a specialization in Software Engineering and have been working in the IT sector since 2020. I worked as a DEV in the first year and am currently focused on software quality and test automation.
+Hi, I'm Alicia or **@m4rri4nne** online. I have a degree in Control and Automation Engineering and a specialization in Software Engineering. I have been working in the IT sector since 2020. I worked as a DEV in the first year and am currently focused on software quality and test automation.
 
-In my spare time I develop a few different things and write articles on [dev.to](https://dev.to/m4rri4nne).
+In my spare time, I develop various things and write articles on [dev.to](https://dev.to/m4rri4nne).
 
 ---
 
 Estudando/Studying: 
 
-![](https://img.shields.io/badge/docker-338AFF?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/react-338AFF?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/php-800080?style=for-the-badge&logo=php&logoColor=white)
 
 --- 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rri4nne&theme=dracula">
@@ -36,5 +34,3 @@ Estudando/Studying:
 Portuguese - Native
 
 English - Advanced 
-
-French - Beginner
