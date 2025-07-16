@@ -49,7 +49,7 @@ Feel free to open an issue or start a discussion on any repository if you’re c
 ## 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4rri4nne&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m4rri4nne&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rri4nne&theme=nightowl&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rri4nne&theme=nightowl&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </div>
