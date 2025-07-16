@@ -10,12 +10,16 @@ Oi oi, eu sou a Alicia ou **@m4rri4nne** nas redes. Sou formada em Engenharia de
 
 Nas horas vagas desenvolvo algumas coisinhas diferentes e escrevo artigos no [dev.to](https://dev.to/m4rri4nne). 
 
+Meus projetos pessoais você encontra na [QAlaLand](https://github.com/QAlaLand).
+
 
 ### Hello! 👋 🇺🇸
 
 Hi, I'm Alicia or **@m4rri4nne** online. I have a degree in Control and Automation Engineering and a specialization in Software Engineering. I have been working in the IT sector since 2020. I worked as a DEV in the first year and am currently focused on software quality and test automation.
 
 In my spare time, I develop various things and write articles on [dev.to](https://dev.to/m4rri4nne).
+
+You can find my projects on [QAlaLand](https://github.com/QAlaLand).
 
 ---
 
