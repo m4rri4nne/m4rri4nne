@@ -30,10 +30,7 @@ Docs, scripts, and notes from what I’m currently learning, breaking, or fixing
 
 
 ## ⚙️ Tools, Languages & Tech I Play With
-
-- **Automation**: Cypress, Playwright, Selenium, Pytest, Postman, REST Assured
-- **Dev Tools**: Node.js, Python, Java, TypeScript, Docker, GitHub Actions
-- **Learning Goals**: CI/CD, TDD, design patterns, API design, test strategy, full-stack dev
+[![My Skills](https://skillicons.dev/icons?i=cypress,postman,selenium,nodejs,java,typescript,cs,python,javascript,dart,git,github,figma,vscode,docker,mysql,postgres,elasticsearch,powershell,npm,kafka,rabbitmq,playwright)](https://skillicons.dev)
 
 ## 📬 Wanna Chat?
 
@@ -47,8 +44,11 @@ Feel free to open an issue or start a discussion on any repository if you’re c
 
 
 ## 
-
- ![m4rri4nne's Stats](https://github-readme-stats.vercel.app/api?username=m4rri4nne&theme=nightowl&show_icons=true&hide_border=true&count_private=true) ![m4rri4nne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rri4nne&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <a href="https://github.com/m4rri4nne">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=m4rri4nne&theme=nightowl&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rri4nne&theme=nightowl&show_icons=true&hide_border=true&layout=compact"/> 
+</div>
 
 
 
