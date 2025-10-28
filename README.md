@@ -36,7 +36,7 @@ Docs, scripts, and notes from what I’m currently learning, breaking, or fixing
 
 Feel free to open an issue or start a discussion on any repository if you’re curious or have feedback. Always down to learn and share.
 
-
+[![](https://img.shields.io/badge/-e93c71?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/qaalicia)
 [![](https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/m4rri4nne)
 [![](https://img.shields.io/badge/BlueSky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/m4rri4nne.bsky.social)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicia-gonçalves-paula/)
