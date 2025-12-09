@@ -43,14 +43,6 @@ Feel free to open an issue or start a discussion on any repository if you’re c
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/m4rri4nne)
 
 
-## 
-<div align="center">
-  <a href="https://github.com/m4rri4nne">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=m4rri4nne&theme=nightowl&show_icons=true&hide_border=true&count_private=true"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rri4nne&theme=nightowl&show_icons=true&hide_border=true&layout=compact"/> 
-</div>
-
-
 
 
 
