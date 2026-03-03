@@ -1,6 +1,7 @@
 
 # Hi, I'm Alicia 👻
 
+
 🎬 *Welcome to my world of code, quality, and curious experiments.*
 
 Hi, I'm Alicia or **@m4rri4nne** online. I have a degree in Control and Automation Engineering and a specialization in Software Engineering. I have been working in the IT sector since 2020. I worked as a DEV in the first year and am currently focused on software quality and test automation.
@@ -8,13 +9,6 @@ Hi, I'm Alicia or **@m4rri4nne** online. I have a degree in Control and Automati
 In my spare time, I develop various things and write articles on [dev.to](https://dev.to/m4rri4nne).
 
 Whether it’s testing tools, coding challenges, backend experiments, or random ideas I wanted to try — it all lives here.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Test%20Lover-%F0%9F%A4%96-green" alt="Test Lover" />
-  <img src="https://img.shields.io/badge/Bug%20Squasher-%F0%9F%90%9E-red" alt="Test Lover" />
-  <img src="https://img.shields.io/badge/Learning--In--Progress-%F0%9F%93%9A-yellow" alt="Test Lover" />
-  <img src="https://img.shields.io/badge/Automation-%E2%9C%85-blue" alt="Test Lover" />
-</div>
 
 ## 🧰 What You'll Find Here
 
@@ -27,6 +21,15 @@ From backend services to tiny web apps — small, curious, and sometimes weird.
 📚 **Learning Logs**  
 Docs, scripts, and notes from what I’m currently learning, breaking, or fixing.
 
+## 🤝 Communities
+
+I believe in growing together and actively contributing to the tech ecosystem.
+
+🏅 **2026 AWS Community Builder – Dev Tools**  
+Member of the AWS Community Builders program, sharing knowledge and contributing around Dev Tools, software quality, and the AWS ecosystem.
+
+💛 **He4rt Devs - He4rt Delas**  
+Part of a community focused on inclusion, growth, and empowering people in technology through collaboration and knowledge sharing.
 
 
 ## ⚙️ Tools, Languages & Tech I Play With
